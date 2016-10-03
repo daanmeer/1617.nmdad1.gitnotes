@@ -20,6 +20,4 @@ Mappen
 
 > ##Daan Meert
 
-> ###ProDEV
-
-> ####Grafische en Digitale media
+> ####Grafische en Digitale media ProDev
