@@ -18,8 +18,8 @@ Mappen
 * [Lecutres](/lectures)
 * [Lecutres](/lectures)
 
-##Daan Meert
+> ##Daan Meert
 
-###ProDEV
+> ###ProDEV
 
-####Grafische en Digitale media
+> ####Grafische en Digitale media
