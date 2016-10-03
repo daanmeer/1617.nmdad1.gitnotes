@@ -3,6 +3,6 @@ Mappen
 
 * [Lecutres](/lectures)
 
-> ##Daan Meert
+`##Daan Meert
 
-> ####Grafische en Digitale media ProDev
+####Grafische en Digitale media ProDev `
