@@ -1,11 +1,7 @@
 
-#Daan Meert
-
-Grafische en Digitale media ProDev
+#Daan Meert 
+`Grafische en Digitale media ProDev`
 
 ---
-
-Mappen 
-------
 
 * [Lecutres](/lectures)
