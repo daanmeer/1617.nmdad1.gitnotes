@@ -1,3 +1,6 @@
+#Cheatsheet
+
+```
 Echo : Functie die tekst gaat printen in html.
 + : Wordt enkel gebruikt om wiskundige bewerkingen te doen. 
 . : Om strings aan elkaar te plaatsen
@@ -26,3 +29,5 @@ FOR:
 		}
 
 Hulpfile aanzetten: kijken welke versie je hebt -> pre -> php -> kijken in mamp map bij config -> php.ini -> zoeken op "display_errors" -> off veranderen in on
+
+```
