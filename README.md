@@ -5,6 +5,6 @@
 ---
 
 * [Gdm-notes](/GDM-notes)
-** [CrossmediaPublishing](/CrossmediaPublishing)
-** [New media design & development](/New media design & development)
-** [Webdadi](/Webdadi)
+	* [CrossmediaPublishing](/GDM-notes/CrossmediaPublishing)
+	* [New media design & development](/GDM-notes/New media design & development)
+	* [Webdadi](/GDM-notes/Webdadi)
