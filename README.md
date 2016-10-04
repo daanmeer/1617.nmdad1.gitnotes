@@ -4,4 +4,4 @@
 
 ---
 
-* [Lecutres](/lectures)
+* [Gdm-notes](/GDM-notes)
