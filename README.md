@@ -5,9 +5,9 @@
 ---
 
 * [I MMP-notes(/I MMP-notes)
-	* [Webdesign & development I](/GDM-notes/Webdesign & development I)
+	* [Webdesign & development I](/I MMP-notes/Webdesign & development I)
 
 * [II MMP-notes(/II MMP-notes)
-	* [CrossmediaPublishing](/GDM-notes/CrossmediaPublishing)
-	* [New media design & development](/GDM-notes/New media design & development)
-	* [Webdesign & development II](/GDM-notes/Webdesign & development II)
+	* [CrossmediaPublishing](/II MMP-notes/CrossmediaPublishing)
+	* [New media design & development](/II MMP-notes/New media design & development)
+	* [Webdesign & development II](/II MMP-notes/Webdesign & development II)
